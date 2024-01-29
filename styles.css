@@ -14,3 +14,23 @@ li{
 a{
 	text-decoration-line: none
 }
+div{
+		text-align: center;
+	
+}
+.player_one{
+	background-color: rgb(255, 255, 255);
+	justify-content:center;
+	border-radius:5px;
+	text-align: center;
+	padding:100px;
+	
+}
+.player_two{
+	.player_one{
+	background-color: rgb(255, 255, 255);
+	border-radius:5px;
+	text-align:center;
+	
+}
+
